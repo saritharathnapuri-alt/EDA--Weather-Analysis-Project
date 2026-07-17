@@ -166,6 +166,22 @@ jupyter notebook
 
 ---
 
+## Conclusion
+
+Temperature data analysis project completed successfully.
+
+**What I did:**
+1. Cleaned data: Combined Year, Month, Day into Date
+2. Did EDA: Month vs Weather crosstab
+3. Visualized: Temperature trend lineplot using Seaborn
+
+**Tools Used:** Python, Pandas, Seaborn, Matplotlib
+
+**Learning:** How to handle dates and plot time series data in Python.
+
+
+
+
 ## 👩‍💻 Author
 
 **Rathnapuri Saritha**
