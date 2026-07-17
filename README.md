@@ -123,7 +123,7 @@ Weather-Data-Analysis/
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/yourusername/Weather-Data-Analysis.git
+https://github.com/saritharathnapuri-alt
 ```
 
 2. Install the required libraries.
